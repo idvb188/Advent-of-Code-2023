@@ -1,1 +1,1 @@
-import numpe as np
+import numpy as np
